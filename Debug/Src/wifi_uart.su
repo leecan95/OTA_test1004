@@ -1,0 +1,10 @@
+wifi_uart.c:14:5:setCmdMode	152	static
+wifi_uart.c:26:5:getCmdResponse	56	static
+wifi_uart.c:68:5:setupNetwork	152	static
+wifi_uart.c:87:5:setAutoJoinWifi	152	static
+wifi_uart.c:98:5:setTCPServer	152	static
+wifi_uart.c:118:5:setAutostartTCP	152	static
+wifi_uart.c:130:5:setBUSmode	152	static
+wifi_uart.c:156:5:changeStream2Command	144	static
+wifi_uart.c:172:5:changeCommand2Stream	144	static
+wifi_uart.c:187:5:checkDataTCP	152	static
